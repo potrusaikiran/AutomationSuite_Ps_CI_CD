@@ -1,0 +1,4 @@
+Keyword,Object,Value,IncludeInTestRun
+EnterText,BingHome_SearchBox,4+5,Yes
+PressKey,BingHome_SearchBox,enter,Yes
+verifylabel,Bing_SearchResultBox,9,Yes
